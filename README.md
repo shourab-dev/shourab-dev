@@ -5,7 +5,7 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="Banner" width="100%">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQEJDa9MHD-73Q/profile-displaybackgroundimage-shrink_350_1400/B56Z8AS0TFG0Ac-/0/1782416360963?e=1784764800&v=beta&t=gf-YGE9_P2NJH1AgB4GpWf4qRzwT1SgHNbX94_-J28Q" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Shourab</h1>
